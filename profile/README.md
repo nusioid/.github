@@ -56,23 +56,6 @@ within a couple of hours, any time of day.
 3. **Pay securely** by card
 4. **Scan your QR** — we email the eSIM once it's activated, and you're online the moment you land
 
-### Under the hood
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" alt="Drizzle ORM">
-  <img src="https://img.shields.io/badge/Turborepo-000000?style=flat-square&logo=turborepo&logoColor=white" alt="Turborepo">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-</p>
-
-A TypeScript monorepo — Next.js (App Router) + React, Tailwind CSS, Drizzle ORM
-on PostgreSQL, self-hosted storage for documents and QR codes, and Xendit for
-payments. Turborepo + pnpm workspaces, shipped via Docker.
-
 ---
 
 <p align="center">
