@@ -1,4 +1,4 @@
-<h1 align="center">nusio<span>·</span>indonesia</h1>
+<h1 align="center">nusio <span>·</span> Bali and Indonesian Tourist eSIM</h1>
 
 <p align="center">
   <strong>Tourist eSIMs for Bali &amp; Indonesia — with a real local +62 number.</strong>
